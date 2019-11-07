@@ -83,6 +83,7 @@
                 <div class="title m-b-md">
                     Laravelのdevelopブランチです。
                 </div>
+                <p>許してつかんさい。</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
