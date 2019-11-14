@@ -85,7 +85,7 @@
                     Hello, Laravel!
                 </div>
                 <p>You don't nothing, ...</p>
-                <p>John Wick...</p>
+                <p>John Wick...?</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
