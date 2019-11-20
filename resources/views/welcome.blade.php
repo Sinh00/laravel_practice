@@ -84,6 +84,7 @@
                 <div class="title m-b-md">
                     Hello, Laravel!
                 </div>
+                <p>こんにちは、ララベル！</p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
